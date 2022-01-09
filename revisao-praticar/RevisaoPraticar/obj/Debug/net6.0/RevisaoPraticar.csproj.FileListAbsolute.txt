@@ -1,0 +1,15 @@
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\bin\Debug\net6.0\RevisaoPraticar.exe
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\bin\Debug\net6.0\RevisaoPraticar.deps.json
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\bin\Debug\net6.0\RevisaoPraticar.runtimeconfig.json
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\bin\Debug\net6.0\RevisaoPraticar.dll
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\bin\Debug\net6.0\ref\RevisaoPraticar.dll
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\bin\Debug\net6.0\RevisaoPraticar.pdb
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\RevisaoPraticar.csproj.AssemblyReference.cache
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\RevisaoPraticar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\RevisaoPraticar.AssemblyInfoInputs.cache
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\RevisaoPraticar.AssemblyInfo.cs
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\RevisaoPraticar.csproj.CoreCompileInputs.cache
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\RevisaoPraticar.dll
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\ref\RevisaoPraticar.dll
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\RevisaoPraticar.pdb
+C:\Users\adole\Desktop\Projetos-.NET-C#\revisao-praticar\RevisaoPraticar\obj\Debug\net6.0\RevisaoPraticar.genruntimeconfig.cache
