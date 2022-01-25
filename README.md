@@ -1,4 +1,4 @@
-Pasta onde fiz todos os exercícios do Bootcamp LocalizaLabs .NET Developer #2, também contém um projeto crud de um aplicativo de cadastro de séries usando .NET C#.
+# Pasta onde fiz todos os exercícios do Bootcamp LocalizaLabs .NET Developer #2, também contém um projeto crud de um aplicativo de cadastro de séries usando .NET C#.
 
 
 
